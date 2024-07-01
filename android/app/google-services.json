@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "647761092600",
+    "project_id": "paos-taspen",
+    "storage_bucket": "paos-taspen.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:647761092600:android:068ef2badbd2aa86c0c00d",
+        "android_client_info": {
+          "package_name": "com.taspen.paos"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCiShukkMSu5PgPXRdRpc5Wb6yBSvUJ-20"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:647761092600:android:f50b8e6709b07799c0c00d",
+        "android_client_info": {
+          "package_name": "com.taspen.paos.dev"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCiShukkMSu5PgPXRdRpc5Wb6yBSvUJ-20"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:647761092600:android:7c6e43772e79c9a0c0c00d",
+        "android_client_info": {
+          "package_name": "com.taspen.paos.stag"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCiShukkMSu5PgPXRdRpc5Wb6yBSvUJ-20"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,40 @@
+class NamedRoutes {
+  NamedRoutes._();
+
+  static const String initial = '/';
+  static const String samplePage = '/samplePage';
+  static const String login = '/login';
+  static const String settings = '/settings';
+  static const String deleteAccount = '/settings/deleteAccount';
+  static const String home = '/home';
+  static const String forgotPass = '/auth/forgotPass';
+  static const String successForgotPass = '/auth/successForgotPass';
+  static const String mainPage = '/main';
+  static const String room = '/room';
+  static const String addRoom = '/room/add';
+  static const String addParticipant = '/room/add/participant';
+  static const String detailRoom = '/room/detail';
+  static const String vehicle = '/vehicle';
+  static const String addVehicle = '/vehicle/add';
+  static const String addDestinationVehicle = '/vehicle/add/destination';
+  static const String profile = '/profile';
+  static const String about = '/about';
+  static const String privacyPolicy = '/privacyPolicy';
+  static const String tnc = '/tnc';
+  static const String changePassword = '/changePassword';
+  static const String changeProfile = '/changeProfile';
+  static const String trackingDetail = '/trackingDetail';
+  static const String supplies = '/supplies';
+  static const String detailSupplies = '/supplies/detail';
+  static const String listMaterial = '/supplies/material/list';
+  static const String detailInfoSupplies = '/supplies/info/detail';
+  static const String addUsage = '/addUsage';
+  static const String addRequest = '/addRequest';
+  static const String addOpname = '/addOpname';
+  static const String detailVehicleRes = '/vehicle/detail';
+  static const String notif = '/notifikasi';
+  static const String detailNews = '/news/detail';
+  static const String listUserApproval = '/reference/list';
+  static const String presenceDetail = '/presence/detail';
+  static const String presenceList = '/presence/list';
+}
